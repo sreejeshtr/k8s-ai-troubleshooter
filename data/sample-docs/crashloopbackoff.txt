@@ -1,0 +1,8 @@
+CrashLoopBackOff occurs when a container repeatedly fails to start.
+
+Common causes:
+
+- Application startup failures
+- Missing environment variables
+- Database connectivity problems
+- Invalid configuration

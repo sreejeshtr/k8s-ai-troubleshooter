@@ -1,0 +1,7 @@
+ImagePullBackOff occurs when Kubernetes cannot pull a container image.
+
+Common causes:
+
+- Wrong image name
+- Private registry authentication failure
+- Image does not exist

@@ -1,0 +1,1 @@
+crashloopbackoff can happen in openshift kubernetes docker aws mariadb oracle
